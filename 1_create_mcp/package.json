@@ -1,0 +1,8 @@
+{
+  "name": "mcp-create-example",
+  "private": true,
+  "version": "0.1.0",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

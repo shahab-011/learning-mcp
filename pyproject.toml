@@ -1,0 +1,15 @@
+[project]
+name = "mcp-learning-lab"
+version = "0.1.0"
+description = "Starter workspace for learning Model Context Protocol integrations"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.14,<3",
+    "langchain-mcp-adapters>=0.3,<1",
+    "mcp>=1.24,<2",
+    "python-dotenv>=1.0,<2",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}\\mcp_pypi_demo\\src"
+  ]
+}

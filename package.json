@@ -1,0 +1,10 @@
+{
+  "name": "mcp-learning-lab",
+  "private": true,
+  "version": "0.1.0",
+  "description": "JavaScript dependencies for the MCP Learning Lab",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
