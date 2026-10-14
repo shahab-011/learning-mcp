@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MCP Learning Lab
 
 A hands-on collection of Model Context Protocol (MCP) examples covering server tools, stdio and Streamable HTTP transports, Python and LangChain clients, community integrations, a reusable Python package, a gateway, and Docker.
@@ -79,3 +80,6 @@ Example LinkedIn caption:
 > Project: [add your repository link]
 
 Add your repository URL and a screenshot or short demo before posting.
+=======
+# learning-mcp
+>>>>>>> d2b9d6f991ba63e04d59913273be9d70570a2449
